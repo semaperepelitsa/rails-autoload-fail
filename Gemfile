@@ -1,2 +1,2 @@
 source "https://rubygems.org"
-gem "activesupport", "~> 5.2.3"
+gem "activesupport", "~> 6.0.6"
